@@ -11,7 +11,7 @@
  * HINT: Use the onkeydown function inside HTML
  */
 function updateText(){
-  // CODE GOES HERE
+  console.log('working')
 }
 
 /**
