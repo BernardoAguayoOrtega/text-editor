@@ -4,7 +4,7 @@ App app to practice em6 concepts
 
 ## How te see it?
 
-Go to [link](https://bernardoaguayoortega.github.io/text-editor/public/) to see it.
+Go to [link](https://bernardoaguayoortega.github.io/text-editor/) to see it.
 
 ## Contributing
 
